@@ -187,7 +187,7 @@ footerBlocks:
    - {link: "http://stackoverflow.com/users/1066128/chemalarrea", text: "stackoverflow"}
    - {link: "https://es.linkedin.com/in/chemalarrea", text: "linkedIn"}
  -
-  title: "Contacts"
+  title: "Contact"
   links:
    - {link: "mailto:hola@chemalarrea.com", text: "hola@chemalarrea.com"}
 # -

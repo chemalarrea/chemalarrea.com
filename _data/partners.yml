@@ -2,8 +2,7 @@
  group: "Methodologies"
   elements: 
     - {name: "SCRUM", description: "SCRUM", link: "https://www.scrum.org/", imageUrl: "google.svg"}
-    - {name: "Agile", description: "Agile", link: "http://agilemethodology.org/", imageUrl: "gdg-lviv.svg"}
-    - {name: "Lean Startup", description: "Lean", link: "http://theleanstartup.com/", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 - 
   group: "With support of"
   elements: 

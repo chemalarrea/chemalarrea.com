@@ -5,6 +5,6 @@
 - 
   group: "Past projects"
   elements: 
-    - {name: "Wasabi App Factory", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "Palyque", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "Airticket", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Wasabi App Factory", description: "Consultancy IT projects", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
+    - {name: "Palyque", description: "Social discovery app", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "Airticket", description: "PassBook App before exist passbook", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}

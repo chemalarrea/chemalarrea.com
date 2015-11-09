@@ -1,7 +1,7 @@
 - 
   group: Actual project
   elements: 
-    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "logo-qhaceshoy.png"}
+    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.png"}
 - 
   group: "Past projects"
   elements: 

@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "chemalarrea"
 email: "hola@chemlarrea.com"
-description: "GDG DevFest is a set of events all around the world"
+description: "ChemaLarrea web page"
 baseurl: "/zeppelin"
 url: "https://chemalarrea.github.io/"
 permalink: "/blog/:title"
@@ -21,15 +21,15 @@ googleAnalyticsSiteUrl: "chemalarrea.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "hola@chemlarrea.com"
+organizerName: "ChemaLarrea"
+organizerAlternateName: "ChemaLarrea"
+organizerDescription: "Chema Larrea web page"
+organizerEmail: "info@chemalarrea.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://chemlarrea.com"
+organizerLink: "http://chemalarrea.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "ChemaLarrea, entrepeneur, emprender, startup"
 twitterAccount: "@chemlarrea"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -67,9 +67,9 @@ typeoutFallback: "Season"
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Conference", image: "conference.jpg", text: "blablabla" }
+ - {title: "Workshops", image: "workshop.jpg", text: "blablabla" }
+ - {title: "Innovation", image: "hackathon.jpg", text: "blablabla" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

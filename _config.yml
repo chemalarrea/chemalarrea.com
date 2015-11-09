@@ -101,8 +101,8 @@ eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-10-25T20:00"
 eventPlaceCoordinates: "40.4121601, -3.7191547"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+mapCenterCoordinates: "40.4121601, -3.7191547"
+mapMobileCenterCoordinates: "40.4121601, -3.7191547"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -116,7 +116,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "chemalarrea"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block

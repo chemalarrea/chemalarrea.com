@@ -37,7 +37,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://bit.ly/dfua-c4p"
-#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "/assets/Chema Larrea Resume.pdf"
 
 
 # Navigation
@@ -122,7 +122,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 # Partners Block
 organizersTitle: "Serial Entrepeneur"
 partnersTitle: "Methodologies and Technologies"
-#partnersC4sponsorsButton: "Become a sponsor"
+partnersC4sponsorsButton: "Download Resume"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"

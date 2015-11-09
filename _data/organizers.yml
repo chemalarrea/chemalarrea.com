@@ -1,7 +1,7 @@
 - 
-  group: "Main organizer"
+  group: Actual project"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "gdg-lviv.svg"}
 - 
   group: "Co-organizers"
   elements: 

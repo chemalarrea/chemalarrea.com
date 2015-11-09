@@ -76,7 +76,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "10", specialCharacter: "+", info: "Apps publised", detail: "since 2010"}
  - {count: "4", specialCharacter: "", info: "startups", detail: "founded"}
- - {count: "5", specialCharacter: "+", info: "awards", detail: "from country and beyond"}
+ - {count: "5", specialCharacter: "+", info: "awards", detail: "from my country and beyond"}
  #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block

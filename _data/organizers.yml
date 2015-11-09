@@ -1,10 +1,14 @@
 - 
   group: Actual project
   elements: 
-    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.png"}
+    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
 - 
   group: "Past projects"
   elements: 
-    - {name: "Wasabi App Factory", description: "Consultancy IT projects", link: "", imageUrl: "wasabi.svg"}
-    - {name: "Palyque", description: "Social discovery app", link: "", imageUrl: "palyque.svg"}
-    - {name: "Airticket", description: "PassBook App before exist passbook", link: "", imageUrl: "airticket.svg"}
+      - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
+    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
+    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
+
+#    - {name: "Wasabi App Factory", description: "Consultancy IT projects", link: "", imageUrl: "wasabi.svg"}
+ #   - {name: "Palyque", description: "Social discovery app", link: "", imageUrl: "palyque.svg"}
+ #   - {name: "Airticket", description: "PassBook App before exist passbook", link: "", imageUrl: "airticket.svg"}

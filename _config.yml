@@ -65,7 +65,7 @@ typeoutFallback: "Season"
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Chema Larrea"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "blablabla" }
  - {title: "Workshops", image: "workshop.jpg", text: "blablabla" }
@@ -74,10 +74,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "10", specialCharacter: "+", info: "Apps publised", detail: "since 2010"}
+ - {count: "4", specialCharacter: "", info: "startups", detail: "founded"}
+ - {count: "5", specialCharacter: "+", info: "awards", detail: "from country and beyond"}
+ #- {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"

@@ -14,10 +14,10 @@ title: "chemalarrea"
 email: "hola@chemlarrea.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/chemlarrea.com"
-url: "https://chemalarrea.github.io"
+url: "https://chemalarrea.github.io/chemlarrea.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-69510631-5"
-googleAnalyticsSiteUrl: "chemlarrea.com"
+googleAnalyticsTrackingId: "UA-69510631-1"
+googleAnalyticsSiteUrl: "chemalarrea.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info

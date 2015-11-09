@@ -1,14 +1,10 @@
 - 
-  group: Actual project
+  group: "Main organizer"
   elements: 
-    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
+    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
 - 
-  group: "Past projects"
+  group: "Co-organizers"
   elements: 
-      - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
-    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
-    - {name: "Qhaceshoy", description: "Qhaceshoy - Last minute ticketing app with big discounts", link: "http://www.qhaceshoy.es", imageUrl: "qhaceshoy.svg"}
-
-#    - {name: "Wasabi App Factory", description: "Consultancy IT projects", link: "", imageUrl: "wasabi.svg"}
- #   - {name: "Palyque", description: "Social discovery app", link: "", imageUrl: "palyque.svg"}
- #   - {name: "Airticket", description: "PassBook App before exist passbook", link: "", imageUrl: "airticket.svg"}
+    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
+    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}

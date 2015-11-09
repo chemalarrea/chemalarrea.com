@@ -1,8 +1,8 @@
 - 
   group: "Methodologies"
   elements: 
-    - {name: "Scrum", description: "Scrum", link: "https://www.scrum.org/", imageUrl: "google.svg"}
-    - {name: "Lean Startup", description: "Lean", link: "http://theleanstartup.com/", imageUrl: "gdg-lviv.svg"}
+    - {name: "Scrum", description: "Scrum", link: "https://www.scrum.org/", imageUrl: "scrum.svg"}
+    - {name: "Lean Startup", description: "Lean", link: "http://theleanstartup.com/", imageUrl: "leanstartup.svg"}
 - 
   group: "With support of"
   elements: 

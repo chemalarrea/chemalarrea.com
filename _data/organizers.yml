@@ -5,6 +5,6 @@
 - 
   group: "Past projects"
   elements: 
-	- {name: "Wasabi App Factory", description: "Consultancy IT projects", link: "", imageUrl: "wasabi.svg"}
-    - {name: "Palyque", description: "Social discovery app", link: "", imageUrl: "palyque.svg"}
-    - {name: "Airticket", description: "PassBook App before exist passbook", link: "", imageUrl: "airticket.svg"}
+	- {name: "Wasabi App Factory", description: "Consultancy IT projects", link: "http://www.chemalarrea.com", imageUrl: "wasabi.svg"}
+    - {name: "Palyque", description: "Social discovery app", link: "http://www.chemalarrea.com", imageUrl: "palyque.svg"}
+    - {name: "Airticket", description: "PassBook App before exist passbook", link: "http://www.chemalarrea.com", imageUrl: "airticket.svg"}

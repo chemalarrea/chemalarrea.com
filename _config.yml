@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "chemalarrea"
-email: "hola@chemlarrea.com"
+email: "hola@chemalarrea.com"
 description: "ChemaLarrea web page"
 baseurl: "/zeppelin"
 url: "https://chemalarrea.github.io/"
@@ -30,7 +30,7 @@ organizerLink: "http://chemalarrea.com/"
 
 # Head
 metaKeywords: "ChemaLarrea, entrepeneur, emprender, startup"
-twitterAccount: "@chemlarrea"
+twitterAccount: "@chemalarrea"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"

@@ -1,47 +1,65 @@
+
+
 <!-- Begin Blog-->
 <section id="blog" class="blog">
     <div class="content-wrapper text-left">
         <div class="col-md-10 col-sm-10 col-lg-offset-2 col-md-offset-2 col-sm-offset-1">
-            <h3>{{ site.blogTitle }}</h3>
+           <!-- <h3>{{ site.blogTitle }}</h3>-->
             <div class="col-lg-8 col-md-10 col-xs-12">
-                {% for post in site.posts %}
-                    <article class="row post">
-                        <a href="{{ site.baseurl | append: post.url }}" title="{{ post.title }}"><h4>{{ post.title }}</h4></a>
-                        <div class="post-header">
-                            <div class="published col-md-6 col-xs-6 pull-left">
-                                <span class="caption">Posted:</span>
-                                <span class="publish-date" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</span>
-                            </div>
-                            <div class="share col-md-6 col-xs-6 pull-right">
-                                <ul class="social-links">
-                                    {% assign postUrl = site.url | append: site.baseurl | append: post.url %} 
-                                    <li>
-                                        <a href="#" onclick="window.open('https://plus.google.com/share?url={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
-                                            <svg class="icon icon-google-plus" viewBox="0 0 30 32">
-                                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-google-plus"></use>
-                                            </svg>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" onclick="window.open('https://twitter.com/home?status={{ postUrl }}', 'newwindow', 'width=600, height=250'); return false;">
-                                            <svg class="icon icon-twitter" viewBox="0 0 30 32">
-                                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
-                                            </svg>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ postUrl }}', 'newwindow', 'width=600, height=500'); return false;">
-                                            <svg class="icon icon-facebook" viewBox="0 0 30 32">
-                                                <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-facebook"></use>
-                                            </svg>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                        <p class="post-body">{{ post.content | strip_html | truncate: 350 }} <a href="{{ site.baseurl | append: post.url }}">continue reading</a></p>
+            <center>
+                 <script async src="https://static.medium.com/embed.js"></script><a class="m-profile" href="https://medium.com/@chemalarrea">Chema Larrea</a>
+            </center>
+            <br>
+            <br>
+            <br>
+            <br>
+                <h3>Startups articles</h3>
+                    <article class="row post">                     
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@chemalarrea/como-emprender-con-una-startup-879c34335bf1">Como emprender con una startup</a>
                     </article>
-                {% endfor %} 
+<!--
+                      <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@chemalarrea/el-putsch-de-barcelona-692346c138c3">El Putsch de Barcelona</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@chemalarrea/a-los-europeos-31b7bbdb8f34">A los europeos</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/wind-of-change-2afdd58ebe6f">Wind of Change</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/en-los-marines-hay-muchos-hombres-buenos-1b2322b3d4c9">En los marines hay Muchos Hombres Buenos</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/el-bueno-el-feo-y-el-malo-94e3b7e25def">El bueno, el feo y el malo</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@chemalarrea/la-hipocresia-del-egoismo-8a5b1e4c7eea">La hipocresía del egoísmo</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/los-pocos-muchos-o-los-muchos-pocos-daf85414b373">Los pocos muchos o los muchos pocos</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@chemalarrea/lo-que-me-plazca-1102a14d05e3">Lo que me plazca</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/yo-tambien-soy-espartaco-ce07fb8d4bb6">Yo también soy Espartaco</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/volver-a-ver-los-clasicos-9c6eb2852760">Volver a ver los clásicos</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/publio-cornelio-escipion-y-quinto-fabio-maximo-7d5397b93ea">Publio Cornelio Escipión y Quinto Fabio Máximo</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/elegir-es-renunciar-4e228594a610">Elegir es Renunciar</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/carta-abierta-a-favor-de-la-tercera-espana-a73ea3079c3a">Carta abierta a favor de la Tercera España</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/unete-a-la-rebelion-f1f2bb92866">Únete a la Rebelión</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/quienes-destruyen-los-partidos-3ab7d2e59ac9">¿Quiénes destruyen los partidos?</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/analisis-postelectoral-ep2014-68bf5fd67f1f">Análisis postelectoral #EP2014</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/elecciones-europeas-2014-una-vision-2-0-4bdb7e128fe1">Elecciones Europeas 2014: una visión 2.0</a>
+
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/explora-suena-descubre-f87a9e4a1b06">Explora, Sueña, Descubre</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@chemalarrea/arbitro-comprao-partido-regalao-bce4fcb46716">Árbitro comprao, partido regalao</a>
+
+                    <script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/union-progreso-y-democracia/la-amenaza-fantasma-7505e34bbcfe">La amenaza fantasma</a>
+
+                    -->
 
                 {% if paginator.total_pages > 1 %}
                 <div class="row">
@@ -61,10 +79,12 @@
                 </div>
                 {% endif %}
 
-                <div class="row text-center">
+          <!--       <div class="row text-center">
                     <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
                     </p>
                 </div>
+                -->
+
 
             </div>
         </div>

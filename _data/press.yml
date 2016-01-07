@@ -5,8 +5,8 @@
     - {title: "Entrepeneur", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "2016-01-03",
-    	endTime: "",
+        startTime: "10:00",
+        endTime: "10:45",
     	sessionIds: [010]
     }
 #- 

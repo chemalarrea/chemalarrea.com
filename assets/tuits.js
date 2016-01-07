@@ -4185,8 +4185,7 @@
     "id" : 118717703,
     "verified" : false
   }
-}, 
-{
+}, {
   "source" : "\u003Ca href=\"http:\/\/ifttt.com\" rel=\"nofollow\"\u003EIFTTT\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
@@ -4208,5 +4207,75 @@
     "id" : 118717703,
     "verified" : false
   }
-}
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "682716710949011457",
+  "text" : "Despu\u00E9s de los cuartos, semifinales y despu\u00E9s la final. Como toda la vida",
+  "id" : 682716710949011457,
+  "created_at" : "2016-01-01 00:15:22 +0000",
+  "user" : {
+    "name" : "Chema Larrea",
+    "screen_name" : "chemalarrea",
+    "protected" : false,
+    "id_str" : "118717703",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635468184095752193\/R9i90cjZ_normal.jpg",
+    "id" : 118717703,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/Je1OPJBb42",
+      "expanded_url" : "https:\/\/twitter.com\/chemalarrea\/status\/682715953956831232",
+      "display_url" : "twitter.com\/chemalarrea\/st\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "682716125285748737",
+  "text" : "Mi primer tuit de 2016 \nhttps:\/\/t.co\/Je1OPJBb42",
+  "id" : 682716125285748737,
+  "created_at" : "2016-01-01 00:13:03 +0000",
+  "user" : {
+    "name" : "Chema Larrea",
+    "screen_name" : "chemalarrea",
+    "protected" : false,
+    "id_str" : "118717703",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635468184095752193\/R9i90cjZ_normal.jpg",
+    "id" : 118717703,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "682715953956831232",
+  "text" : "Mi primer tuit de 2016",
+  "id" : 682715953956831232,
+  "created_at" : "2016-01-01 00:12:22 +0000",
+  "user" : {
+    "name" : "Chema Larrea",
+    "screen_name" : "chemalarrea",
+    "protected" : false,
+    "id_str" : "118717703",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/635468184095752193\/R9i90cjZ_normal.jpg",
+    "id" : 118717703,
+    "verified" : false
+  }
 } ]

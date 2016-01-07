@@ -8,10 +8,10 @@
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+chemalarrea"}
-    - {name: "twitter", link: "https://twitter.com/chemalarrea"}
-    - {name: "github", link: "https://github.com/chemalarrea"}
-    - {name: "site", link: "http://chemalarrea.com/"}
+    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
+    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
+    - {name: "github", link: "https://github.com/zasadnyy"}
+    - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
   name: "Oleh"

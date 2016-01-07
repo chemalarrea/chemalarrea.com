@@ -44,7 +44,7 @@ c4sponsorsUrl: "/assets/Chema Larrea Resume.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Press"} # Press
+ - {permalink: "/press/", text: "Press"} # Press
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "Logistics"}

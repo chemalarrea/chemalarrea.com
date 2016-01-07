@@ -67,9 +67,9 @@ typeoutFallback: "Season"
 # About Block
 aboutTitle: "About Chema Larrea"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "blablabla" }
- - {title: "Workshops", image: "workshop.jpg", text: "blablabla" }
- - {title: "Innovation", image: "hackathon.jpg", text: "blablabla" }
+ - {title: "Conference", image: "conference.jpg", text: "Chema combines his various projects with dissemination through conferences, workshops, seminars, training and teaching" }
+ - {title: "Digital Transformation", image: "workshop.jpg", text: "It is not a era of change is a change of era" }
+ - {title: "Innovation", image: "hackathon.jpg", text: "Sometimes when you innovate you make mistakes. It is best to admit them quickly and get on with improving your other innovations" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
